@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @thaianramalho.
-- This is my repository of academic articles.
+- 👋 Hi, I’m Thaian Ramalho.
+- Based in Dores de Campos.
 - I do Computer Science at UNIPAC - Barbacena - MG.
+- I have good English, I am always studying and practicing.
