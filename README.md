@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Thaian Ramalho.
 - Based in Dores de Campos.
-- I do Computer Science at UNIPAC - Barbacena - MG.
+- I do Computer Science at UNIPAC Barbacena - MG.
+- English is always under construction.
