@@ -2,3 +2,4 @@
 - Based in Dores de Campos.
 - I do Computer Science at UNIPAC Barbacena - MG.
 - English is always under construction.
+- [My Linkedin](https://www.linkedin.com/in/thaian-ramalho-3b047a21a/)
