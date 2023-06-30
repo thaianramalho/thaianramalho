@@ -1,6 +1,6 @@
 # About Me:
 
-Hi, I’m Thaian Ramalho. I am currently studying the 5th period of computer science.
+Hi, I’m Thaian Ramalho. I am currently studying the 6th period of computer science.
 
 Since I can remember, I've always been curious about how things work behind the computer screen. How they are created and how things happen in a user interface. My interest in computing began when I was a child and had my first contact with a computer. From there, I became more and more interested in the subject and started studying automation, creating applications, and websites on my own. I believe that computing is an area that offers many possibilities and challenges, and I am always looking for new ways to update myself and learn more.
 
