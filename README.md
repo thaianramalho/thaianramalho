@@ -1,6 +1,5 @@
 ## Sobre Mim
-Olá! Meu nome é Thaian Ramalho. Tenho experiência em desenvolvimento web e mobile.
-
+Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo da tecnologia. Possuo experiência em programação nas linguagens PHP, JavaScript (React e React Native) e Kotlin.
 ## Tecnologias
 
 ### Linguagens de Programação
