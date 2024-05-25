@@ -1,9 +1,10 @@
 ## Sobre Mim
-Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo da tecnologia. Possuo experiência em programação nas linguagens PHP, JavaScript (React e React Native), Java e Kotlin.
+Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo da tecnologia. Possuo experiência em programação nas linguagens PHP, Python, JavaScript e C++.
 ## Tecnologias
 
 ### Linguagens de Programação
 - PHP
+- Python
 - JavaScript
 - Kotlin
 
@@ -18,7 +19,7 @@ Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo 
 - Firebase
 
 ## Experiência
-Tenho trabalhado com desenvolvimento de aplicações web e mobile, utilizando as tecnologias mencionadas acima. Minha experiência inclui a criação de aplicativos Android nativos em Kotlin, bem como aplicações web dinâmicas usando PHP e JavaScript. Sou hábil em integrar sistemas com bancos de dados MySQL e Firebase, proporcionando uma experiência de usuário fluida e eficaz.
+Tenho trabalhado com desenvolvimento de aplicações web e mobile, automações físicas com IoT, utilizando as tecnologias mencionadas acima. Minha experiência inclui a criação de automações físicas com ESP-32, aplicativos Android nativos em Kotlin, bem como aplicações web dinâmicas usando PHP e JavaScript. Sou hábil em integrar sistemas com bancos de dados MySQL e Firebase, proporcionando uma experiência de usuário fluida e eficaz.
 
 ## Projetos
 Aqui estão alguns projetos em que tenho em meu repositório que trabalhei anteriormente:
