@@ -1,16 +1,15 @@
 ## Sobre Mim
-Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo da tecnologia. Possuo experiência em programação nas linguagens PHP, Java, Python, JavaScript e C++.
+Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo da tecnologia. Possuo experiência em programação nas linguagens PHP, Java e C++.
 ## Tecnologias
 
 ### Linguagens de Programação
 - PHP
-- Python
 - Java
-- JavaScript
 - Kotlin
+- C++
 
 ### Frameworks
-- React
+- React JS
 - React Native
 - Bootstrap
 - Ant Design
