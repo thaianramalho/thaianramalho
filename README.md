@@ -6,13 +6,6 @@ Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo 
 - PHP
 - Java
 - Kotlin
-- C++
-
-### Frameworks
-- React JS
-- React Native
-- Bootstrap
-- Ant Design
 
 ### Bancos de Dados
 - MySQL
