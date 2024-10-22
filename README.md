@@ -13,9 +13,10 @@ Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo 
 - MySQL
 - SQLite
 - MariaDB
+- Firebase
 
 ## Experiência
-Tenho trabalhado com desenvolvimento de aplicações web e mobile, automações físicas com IoT, utilizando as tecnologias mencionadas acima. Minha experiência inclui a criação de automações físicas com ESP-32, aplicativos Android nativos em Kotlin, bem como aplicações web dinâmicas usando PHP e JavaScript. Sou hábil em integrar sistemas com bancos de dados MySQL e Firebase, proporcionando uma experiência de usuário fluida e eficaz.
+Tenho trabalhado com desenvolvimento de aplicações web e mobile, automações físicas com IoT, utilizando as tecnologias mencionadas acima. Minha experiência inclui a criação de automações físicas com ESP-32, aplicativos Android nativos em Kotlin, bem como aplicações web dinâmicas usando PHP e JavaScript. Sou hábil em integrar sistemas com bancos de dados MySQL, MariaDB e Firebase, proporcionando uma experiência de usuário fluida e eficaz.
 
 ## Projetos
 Aqui estão alguns projetos em que tenho em meu repositório que trabalhei anteriormente:
