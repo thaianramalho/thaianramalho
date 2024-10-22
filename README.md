@@ -23,7 +23,8 @@ Aqui estão alguns projetos em que tenho em meu repositório que trabalhei anter
  
 - **Calcash**: Calculadora de Anúncios para Marketplaces
   - Tecnologias utilizadas: React JS.
-  - Repositório privado, [Link para o site](https://calcash.com.br)
+  - [Link para o site](https://calcash.com.br)
+  - [Link para o repositório](https://github.com/thaianramalho/Calcash)
  
 - **Sistema de Login Java**: Simples sistema de login
   - Tecnologias utilizadas: Java e Java Swing.
@@ -31,8 +32,16 @@ Aqui estão alguns projetos em que tenho em meu repositório que trabalhei anter
 
 - **Calculadoras de IMC**: Calculadoras de IMC.
   - Tecnologias utilizadas: Kotlin, Java.
+  - [Link para o repositório (KOTLIN) - Mais recente](https://github.com/thaianramalho/Calculadoraimc)
   - [Link para o repositório (KOTLIN)](https://github.com/thaianramalho/calculadora_imc_kotlin)
   - [Link para o repositório (JAVA)](https://github.com/thaianramalho/calculadora_imc_java)
+
+- **Outros Aplicativos Mobile**
+- [Dia de Churrasco - Kotlin](https://github.com/thaianramalho/DiadeChurrasco)
+- [Cadastro de Feriados - Kotlin](https://github.com/thaianramalho/CadastroFeriados)
+- [Formulário Simples - Kotlin](https://github.com/thaianramalho/AppSurvey)
+- [Calculadora - Kotlin](https://github.com/thaianramalho/Calculadora)
+- [Hora de Abastecer - .NET Maui](https://github.com/thaianramalho/HoraDeAbastecer)
  
 - **Cronômetro**: Cronômetro simples feito em React Native
   - Tecnologias utilizadas: React Native.
