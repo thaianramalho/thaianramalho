@@ -1,15 +1,18 @@
 ## Sobre Mim
-Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo da tecnologia. Possuo experiência em programação nas linguagens PHP, Java e C++.
+Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo da tecnologia. Possuo experiência em programação nas linguagens PHP, Java, Kotlin e C#.
+
 ## Tecnologias
 
 ### Linguagens de Programação
 - PHP
 - Java
 - Kotlin
+- C#
 
 ### Bancos de Dados
 - MySQL
-- Firebase
+- SQLite
+- MariaDB
 
 ## Experiência
 Tenho trabalhado com desenvolvimento de aplicações web e mobile, automações físicas com IoT, utilizando as tecnologias mencionadas acima. Minha experiência inclui a criação de automações físicas com ESP-32, aplicativos Android nativos em Kotlin, bem como aplicações web dinâmicas usando PHP e JavaScript. Sou hábil em integrar sistemas com bancos de dados MySQL e Firebase, proporcionando uma experiência de usuário fluida e eficaz.
@@ -32,25 +35,21 @@ Aqui estão alguns projetos em que tenho em meu repositório que trabalhei anter
 
 - **Calculadoras de IMC**: Calculadoras de IMC.
   - Tecnologias utilizadas: Kotlin, Java.
-  - [Link para o repositório (KOTLIN) - Mais recente](https://github.com/thaianramalho/Calculadoraimc)
-  - [Link para o repositório (KOTLIN)](https://github.com/thaianramalho/calculadora_imc_kotlin)
-  - [Link para o repositório (JAVA)](https://github.com/thaianramalho/calculadora_imc_java)
+  - [Link para o repositório (Kotlin) - Mais recente](https://github.com/thaianramalho/Calculadoraimc)
+  - [Link para o repositório (Kotlin)](https://github.com/thaianramalho/calculadora_imc_kotlin)
+  - [Link para o repositório (Java)](https://github.com/thaianramalho/calculadora_imc_java)
 
 - **Outros Aplicativos Mobile**
-- [Dia de Churrasco - Kotlin](https://github.com/thaianramalho/DiadeChurrasco)
-- [Cadastro de Feriados - Kotlin](https://github.com/thaianramalho/CadastroFeriados)
-- [Formulário Simples - Kotlin](https://github.com/thaianramalho/AppSurvey)
-- [Calculadora - Kotlin](https://github.com/thaianramalho/Calculadora)
-- [Hora de Abastecer - .NET Maui](https://github.com/thaianramalho/HoraDeAbastecer)
+  - [Dia de Churrasco - Kotlin](https://github.com/thaianramalho/DiadeChurrasco)
+  - [Cadastro de Feriados - Kotlin](https://github.com/thaianramalho/CadastroFeriados)
+  - [Formulário Simples - Kotlin](https://github.com/thaianramalho/AppSurvey)
+  - [Calculadora - Kotlin](https://github.com/thaianramalho/Calculadora)
+  - [Hora de Abastecer - .NET Maui](https://github.com/thaianramalho/HoraDeAbastecer)
  
 - **Cronômetro**: Cronômetro simples feito em React Native
   - Tecnologias utilizadas: React Native.
   - [Link para o repositório](https://github.com/thaianramalho/cronometer-react-native)
  
-- **Pizzaria**: Site para uma pizzaria fictícia feito em um trabalho de faculdade.
-  - Tecnologias utilizadas: HTML, JavaScript, Bootstrap.
-  - [Link para o repositório](https://github.com/thaianramalho/trabalhofinalpizzaria)
-
 ## Contato
 Para mais informações sobre meu trabalho ou para entrar em contato, sinta-se à vontade para me encontrar em:
 
