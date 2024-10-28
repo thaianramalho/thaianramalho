@@ -1,5 +1,5 @@
 ## Sobre Mim
-Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo da tecnologia. Possuo experiência em programação nas linguagens PHP, JavaScript, Kotlin e C#.
+Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo da tecnologia. Possuo experiência em programação nas linguagens PHP, JavaScript, Kotlin e C++.
 
 ## Tecnologias
 
@@ -7,7 +7,7 @@ Olá, me chamo Thaian Ramalho. Estou sempre em busca de me desenvolver no campo 
 - PHP
 - JavaScript
 - Kotlin
-- C#
+- C++
 
 ### Bancos de Dados
 - MySQL
