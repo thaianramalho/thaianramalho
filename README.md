@@ -24,6 +24,8 @@ Aqui estão alguns projetos em que tenho em meu repositório que trabalhei anter
 - **Belisario**: Busca de atendimento médico com base nos sintomas em Barbacena-MG
   - Tecnologias utilizadas: Kotlin, PHP.
   - [Link para o repositório](https://github.com/thaianramalho/Belisario)
+  - Tecnologias utilizadas: PHP, JavaScript, HTML, CSS.
+  - [Acesse aqui a versão Web](https://belisario.mynextzone.com/)
  
 - **Calcash**: Calculadora de Anúncios para Marketplaces
   - Tecnologias utilizadas: React JS.
