@@ -1,15 +1,13 @@
 ## Sobre Mim  
-Olá, me chamo Thaian Ramalho. Sou apaixonado por tecnologia e estou sempre em busca de aprendizado. Tenho experiência tanto em desenvolvimento backend quanto em análise de dados, aplicando tecnologia para otimizar processos e gerar insights.
+Olá, me chamo Thaian Ramalho. Sou apaixonado por tecnologia e desenvolvimento de sistemas. Tenho experiência com aplicações web, mobile e IoT, sempre buscando criar soluções eficientes, integradas e escaláveis.
 
 ## Tecnologias  
 
 ### Linguagens de Programação  
-- Python (Pandas, NumPy, Seaborn)  
-- SQL (MySQL, PostgreSQL)  
 - PHP  
-- JavaScript  
+- JavaScript   
 - Kotlin  
-- C++  
+- C++
 
 ### Bancos de Dados  
 - MySQL  
@@ -17,25 +15,21 @@ Olá, me chamo Thaian Ramalho. Sou apaixonado por tecnologia e estou sempre em b
 - MariaDB  
 - Firebase  
 
-### Ferramentas de Análise de Dados  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- SQL para extração e visualização de dados  
-- APIs para coleta e integração de dados  
+### Ferramentas e Integrações  
+- APIs REST   
+- ESP32 (C++ e Arduino)  
+- Git e GitHub  
 
 ## Experiência  
-Tenho trabalhado com desenvolvimento de aplicações web e mobile, além de análise e visualização de dados. Minha experiência inclui:
-- Criação de dashboards e consultas SQL para análise de entradas, saídas e visitas em sistemas de portaria.  
-- Desenvolvimento de APIs para integração de dados e automação de processos.  
-- Análises exploratórias de dados utilizando Python.  
-- Desenvolvimento de automações físicas com ESP-32 para integração IoT.  
-- Criação de aplicativos Android nativos em Kotlin e aplicações web dinâmicas com PHP e JavaScript.  
+Tenho trabalhado com desenvolvimento backend, automações físicas e aplicações conectadas. Minha experiência inclui:  
+- Desenvolvimento de APIs em PHP para integração entre sistemas web e dispositivos físicos.  
+- Comunicação entre dispositivos IoT (ESP32) e servidores via HTTP.  
+- Aplicações web com PHP e JavaScript voltadas para controle de acesso e gestão de usuários.  
+- Aplicativos Android nativos em Kotlin integrados com sistemas PHP e bancos de dados.  
+- Implantação de soluções em servidores Linux com foco em disponibilidade e segurança.
 
 ## Projetos  
 Aqui estão alguns projetos que trabalhei anteriormente:
-
-### Projetos de Análise de Dados  
-- **Kaggle Data Analysis**: Exploração e visualização de dados com Python e SQL.  
-- **SQL Reports**: Criação de dashboards e relatórios SQL para análise de fluxo de pessoas em sistemas de portaria.  
 
 ### Projetos de Desenvolvimento  
 - **Belisario**: Aplicativo para busca de atendimento médico com base nos sintomas e localização do usuário.  
