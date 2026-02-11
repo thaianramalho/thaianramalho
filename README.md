@@ -1,82 +1,119 @@
-## Sobre Mim  
-Olá, me chamo Thaian Ramalho. Sou apaixonado por tecnologia e desenvolvimento de sistemas. Tenho experiência com aplicações web, mobile e IoT, sempre buscando criar soluções eficientes, integradas e escaláveis.
+# 👋 Hello! I'm Thaian Ramalho
 
-## Tecnologias  
+**Software Developer | Backend • Web • Data Engineering Graduate Student**
 
-### Linguagens de Programação  
-- PHP  
-- JavaScript   
-- Kotlin  
-- C++
-
-### Bancos de Dados  
-- MySQL  
-- SQLite  
-- MariaDB  
-- Firebase  
-
-### Ferramentas e Integrações  
-- APIs REST   
-- ESP32 (C++ e Arduino)  
-- Git e GitHub  
-
-## Experiência  
-Tenho trabalhado com desenvolvimento backend, automações físicas e aplicações conectadas. Minha experiência inclui:  
-- Desenvolvimento de APIs em PHP para integração entre sistemas web e dispositivos físicos.  
-- Comunicação entre dispositivos IoT (ESP32) e servidores via HTTP.  
-- Aplicações web com PHP e JavaScript voltadas para controle de acesso e gestão de usuários.  
-- Aplicativos Android nativos em Kotlin integrados com sistemas PHP e bancos de dados.  
-- Implantação de soluções em servidores Linux com foco em disponibilidade e segurança.
-
-## Projetos  
-Aqui estão alguns projetos que trabalhei anteriormente:
-
-### Projetos de Desenvolvimento  
-- **Belisario**: Aplicativo para busca de atendimento médico com base nos sintomas e localização do usuário.  
-  - Tecnologias: Kotlin, PHP.  
-  - [Repositório](https://github.com/thaianramalho/Belisario)  
-  - [Versão Web](https://belisario.mynextzone.com/)  
-  
-- **Calcash**: Calculadora de anúncios para marketplaces.  
-  - Tecnologias: React.js.  
-  - [Repositório](https://github.com/thaianramalho/Calcash)  
-  
-- **Sistema de Gerenciamento de Condomínios**: Integração de dados físicos e web via APIs (PHP + MySQL + C++).  
-  
-- **Sistema de Login Java**: Simples sistema de login.  
-  - Tecnologias: Java e Java Swing.  
-  - [Repositório](https://github.com/thaianramalho/JavaLoginSystem)  
-  
-- **Calculadoras de IMC**: Calculadoras para cálculo do IMC.  
-  - Tecnologias: Kotlin, Java.  
-  - [Repositório (Kotlin) - Mais recente](https://github.com/thaianramalho/Calculadoraimc)  
-  - [Repositório (Java)](https://github.com/thaianramalho/calculadora_imc_java)  
-  
-- **Outros Aplicativos Mobile**:  
-  - [Dia de Churrasco - Kotlin](https://github.com/thaianramalho/DiadeChurrasco)  
-  - [Cadastro de Feriados - Kotlin](https://github.com/thaianramalho/CadastroFeriados)  
-  - [Formulário Simples - Kotlin](https://github.com/thaianramalho/AppSurvey)  
-  - [Calculadora - Kotlin](https://github.com/thaianramalho/Calculadora)  
-  - [Hora de Abastecer - .NET Maui](https://github.com/thaianramalho/HoraDeAbastecer)  
-
-## Contato  
-Para mais informações sobre meu trabalho ou para entrar em contato, sinta-se à vontade para me encontrar em:  
-
-- **LinkedIn**: [Thaian Ramalho](https://www.linkedin.com/in/thaianramalho/)  
-- **E-mail**: thaianramalho9@gmail.com  
-
-Estou sempre aberto para novas oportunidades de colaboração e aprendizado!  
-
-## Redes Sociais  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thaianramalho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaianramalho)  
-
-# Tecnologias  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
-# Estatísticas do GitHub  
-![](https://github-readme-stats.vercel.app/api?username=thaianramalho&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=thaianramalho&theme=dracula&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaianramalho&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+> Software developer focused on backend systems, web applications, and databases. Currently pursuing a **Postgraduate Degree in Data Engineering**. Experience with PHP, SQL, Python, and Java building scalable and secure systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thaianramalho&icon=0&color=12)](https://visitcount.itsvg.in)
+
+## 🎓 Education
+
+* **Postgraduate Degree in Data Engineering (in progress)**
+* **Bachelor in Computer Science**
+
+---
+
+## 🚀 Tech Stack
+
+**Programming Languages**
+
+* PHP • Python • Java • JavaScript • Kotlin
+
+**Databases**
+
+* MySQL • MariaDB • SQLite • Firebase
+
+**Tools & Concepts**
+
+* REST APIs • Git & GitHub
+* Linux / VPS Deployment
+* Backend Development • Web Systems
+* SQL Modeling • Data Processing • Authentication • CRUD
+
+---
+
+## 💼 Technical Experience
+
+* Developed **REST APIs in PHP** for system integrations
+* Built web applications using **PHP, JavaScript, and MySQL**
+* Designed and optimized **SQL database models and queries**
+* Integrated Android apps with backend services
+* Deployed applications on **Linux servers (VPS)**
+* Implemented authentication, business logic, and system integrations
+
+---
+
+## 📌 Highlighted Projects
+
+### 🩺 Belisario
+
+Medical assistance search app based on symptoms and location
+
+* **Stack:** Kotlin, PHP, MySQL
+* 🔗 Repository: [https://github.com/thaianramalho/Belisario](https://github.com/thaianramalho/Belisario)
+* 🌐 Web Demo: [https://belisario.mynextzone.com/](https://belisario.mynextzone.com/)
+
+---
+
+### 💰 Calcash
+
+Marketplace ads calculator
+
+* **Stack:** React.js
+* 🔗 [https://github.com/thaianramalho/Calcash](https://github.com/thaianramalho/Calcash)
+
+---
+
+### 🏢 Condominium Management System
+
+Full web system with authentication, users, and backend APIs
+
+* **Stack:** PHP, MySQL, REST APIs
+
+---
+
+### 🔐 Java Login System
+
+Desktop authentication system
+
+* **Stack:** Java
+* 🔗 [https://github.com/thaianramalho/JavaLoginSystem](https://github.com/thaianramalho/JavaLoginSystem)
+
+---
+
+## 📱 Mobile Apps
+
+* IMC Calculator (Kotlin): [https://github.com/thaianramalho/Calculadoraimc](https://github.com/thaianramalho/Calculadoraimc)
+* IMC Calculator (Java): [https://github.com/thaianramalho/calculadora_imc_java](https://github.com/thaianramalho/calculadora_imc_java)
+* Other apps:
+
+  * [https://github.com/thaianramalho/DiadeChurrasco](https://github.com/thaianramalho/DiadeChurrasco)
+  * [https://github.com/thaianramalho/CadastroFeriados](https://github.com/thaianramalho/CadastroFeriados)
+  * [https://github.com/thaianramalho/AppSurvey](https://github.com/thaianramalho/AppSurvey)
+  * [https://github.com/thaianramalho/Calculadora](https://github.com/thaianramalho/Calculadora)
+  * [https://github.com/thaianramalho/HoraDeAbastecer](https://github.com/thaianramalho/HoraDeAbastecer)
+
+---
+
+## 📫 Contact
+
+* **LinkedIn:** [https://linkedin.com/in/thaianramalho](https://linkedin.com/in/thaianramalho)
+* **Email:** [thaianramalho9@gmail.com](mailto:thaianramalho9@gmail.com)
+
+---
+
+## 🧠 Tech Badges
+
+![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=thaianramalho\&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=thaianramalho\&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaianramalho\&layout=compact\&theme=dracula)
