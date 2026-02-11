@@ -17,18 +17,18 @@
 
 **Programming Languages**
 
-* PHP • Python • Java • JavaScript • Kotlin
+* PHP • Python • Java
 
 **Databases**
 
-* MySQL • MariaDB • SQLite • Firebase
+* MySQL • MariaDB • PostgreSQL
 
 **Tools & Concepts**
 
 * REST APIs • Git & GitHub
 * Linux / VPS Deployment
 * Backend Development • Web Systems
-* SQL Modeling • Data Processing • Authentication • CRUD
+* SQL Modeling • Data Processing • ETL • Data Lake • Data Warehouse
 
 ---
 
